@@ -6,6 +6,7 @@ export function Control() {
   const params = useParams();
   const router = useRouter();
   const id = params.id;
+  console.log(params)
   return (
     <ul>
       <li><Link href='/create'>Create</Link></li>
