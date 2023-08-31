@@ -34,5 +34,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# 2023-08-31, hclee, 문서
+# 2023-08-31, hclee, 문서폴더 버전관리 안함
 /문서/
